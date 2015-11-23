@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "description": "react + redux 的 todo demo. 供学习参考。",
   "dependencies": {
-    "fis3": "^3.3.0",
     "fis3-hook-commonjs": "^0.1.3",
     "fis3-postpackager-loader": "^1.3.6",
     "fis3-parser-typescript": "^0.1.4",
