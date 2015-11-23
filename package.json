@@ -11,7 +11,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "fis3 server start --www output --no-daemon",
+    "start": "fis3 release -cd ./output && fis3 server start --www output --no-daemon",
     "dev": "rm -rf output && fis3 release -cwd output"
   },
   "keywords": [
